@@ -1,0 +1,8 @@
+http://localhost/test.txt
+http://localhost/test2.txt
+/src/scripts.js
+/styles
+hi test test test
+abc/ttt
+./test.txt
+normal text
